@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LoginLogoutApplication {
 
 	public static void main(String[] args) {
-		//SpringApplication.run(LoginLogoutApplication.class, args);
+		SpringApplication.run(LoginLogoutApplication.class, args);
 		
 		System.out.println("Hello, World!");
 		
